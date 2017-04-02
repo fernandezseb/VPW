@@ -1,0 +1,4 @@
+= COMPILATION
+
+On Linux, compile with:
+gcc main.c -o main -lm
